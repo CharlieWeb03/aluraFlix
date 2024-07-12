@@ -82,8 +82,8 @@ function Footer() {
             </IconContainer>
             <FooterText className='text'>
                 Diseñado por Alura.<br />
-                Desarrollado por Flor María Labanda P.<br />
-                18 de Junio de 2024
+                Desarrollado por CHARLIE WEB.<br />
+                15 de Junio de 2024
             </FooterText>
         </StyledFooter>
     );
